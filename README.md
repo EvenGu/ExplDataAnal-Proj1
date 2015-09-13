@@ -1,2 +1,3 @@
 # ExplDataAnal-Proj1
-## I use a Mac
+The pipe function was used to load data from the dates 2007-02-01 and 2007-02-02. 
+I use a Mac.
